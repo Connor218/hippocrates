@@ -3,11 +3,13 @@
   <h1 align="center">So the Doctors can focus on YOU</h1>
 </h3>
 
-This app was created for small healthcare businesses and hospitals, practitioners, and medical staff as a tool for managing and organizing digital records for patient information as well as essential business documentation, patient accounting, and clinic accounts and its inventory. 
+HIPPOCRATES: An ERP that allows our world's small healthcare providers to manage and organize their practices efficiently at a reasonable cost. Thus, Hippocrates provides practitioners and medical staff the tools and the ease to providing patients with personalized health services.
 
-A small medical practice with an active CRM software in use means they are spending an incredibly high sum for that software's annual licensing fees and usually a subscription plan of operation (the latter paid month-to-month or as a single high yearly fee). 
+* WHAT: This app was created for small healthcare businesses and hospitals, practitioners, and medical staff as a tool for managing and organizing digital records for patient information as well as essential business documentation, patient accounting, and clinic accounts and its inventory. 
 
-Hence, acquiring CRM software for a medical practice is very expensive and is why we wanted to create Hippocrates as an alternative solution to the big names in use by medical giants, through offering our software at an affordable price to support small healthcare sites with the access to efficient clinic and patient information management.
+* CURRENT PROBLEM WE TARGETED: A small medical practice with CRM software in use most often means that they are spending an incredibly high amount on annual software licensing and renewal fees and usually an additional fee on one of the software's subscription tier packages (the latter either as a month-to-month expense or as a single yearly fee). 
+
+* OUR SOLUTION: Acquiring CRM software for a medical practice is very expensive which is why we created Hippocrates to serve as an alternate solution to the big names in software in use by medical giants. Offering our software at an affordable price aids small healthcare companies with the tools for making better operational decisions and granting those companies access to a solution in efficient clinic and patient information management.
 
 ## Deployed Link
 [Preview on Heroku](https://git.heroku.com/mysterious-headland-90957.git)
@@ -68,4 +70,4 @@ https://docs.mongodb.com/manual/installation/
 * **Junior Salamanca** - [jsalamanca23](https://github.com/jsalamanca23)
 
 ## Acknowledgements
-A huge thank you to Jerome and TA's Amber, Sasha, and Ricky of UC Berkekely Extension Coding Bootcamp for the guidance and mentorship.
+A huge thank you to Jerome and TA's Amber, Sasha, and Ricky of UC Berkekely Coding Bootcamp for the guidance and mentorship.
