@@ -7,7 +7,7 @@ HIPPOCRATES: An ERP that allows our world's small healthcare providers to manage
 
 * WHAT: This app was created for small healthcare businesses and hospitals, practitioners, and medical staff as a tool for managing and organizing digital records for patient information as well as essential business documentation, patient accounting, and clinic accounts and its inventory. 
 
-* CURRENT PROBLEM WE TARGETED: A small medical practice with CRM software in use most often means that they are spending an incredibly high amount on annual software licensing and renewal fees and usually an additional fee on one of the software's subscription tier packages (the latter either as a month-to-month expense or as a single yearly fee). 
+* PROBLEM WE TARGETED: A small medical practice with CRM software in use most often means that they are spending an incredibly high amount on annual software licensing and renewal fees and usually an additional fee on one of the software's subscription tier packages (the latter either as a month-to-month expense or as a single yearly fee). 
 
 * OUR SOLUTION: Acquiring CRM software for a medical practice is very expensive which is why we created Hippocrates to serve as an alternate solution to the big names in software in use by medical giants. Offering our software at an affordable price aids small healthcare companies with the tools for making better operational decisions and granting those companies access to a solution in efficient clinic and patient information management.
 
