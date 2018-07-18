@@ -21,7 +21,7 @@ After registering or logging in, you can now start utilizing the site and begin 
 
 If you want to run your own local instance, follow the installation instructions provided below.
 
-### Installation
+## Installation
 Inside your terminal or command prompt, navigate to the location of the cloned repo. Install the necessary dependencies by running either - 
 ```
 npm i
